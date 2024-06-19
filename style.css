@@ -23,10 +23,9 @@ body {
 .recipes {
   background-color: rgb(216, 239, 211);
   height: auto;
-  width: 33.3%;
+  width: auto;
   text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 15px;
   border-radius: 10px;
   font-family: "Roboto", sans-serif;
   display: flow-root;
@@ -34,6 +33,7 @@ body {
 
 .recipe-img {
   height: auto;
-  width: 310px;
+  width: 33%;
   border-radius: 10px;
+  float: left;
 }
