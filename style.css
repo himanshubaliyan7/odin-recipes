@@ -17,6 +17,7 @@ body {
   background-color: rgb(149, 210, 179);
   padding: 20px;
   border-radius: 10px;
+  display: flow-root;
 }
 
 .recipes {
