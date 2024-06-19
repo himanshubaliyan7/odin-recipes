@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(216, 239, 211);
+}
+
+#tittle {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+#outer-box {
+  background-color: rgb(149, 210, 179);
+  padding: 20px;
+}
+
+.recipes {
+  background-color: rgb(85, 173, 155);
+  height: auto;
+  width: 33.3%;
+}
