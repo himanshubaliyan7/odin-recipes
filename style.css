@@ -1,5 +1,7 @@
 body {
-  background-color: rgb(216, 239, 211);
+  background-color: rgb(85, 173, 155);
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #tittle {
@@ -7,15 +9,29 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 48px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 4px #242222;
 }
 
 #outer-box {
   background-color: rgb(149, 210, 179);
   padding: 20px;
+  border-radius: 10px;
 }
 
 .recipes {
-  background-color: rgb(85, 173, 155);
+  background-color: rgb(216, 239, 211);
   height: auto;
   width: 33.3%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.recipe-img {
+  height: auto;
+  width: 310px;
+  border-radius: 10px;
 }
