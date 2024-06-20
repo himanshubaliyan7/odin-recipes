@@ -20,12 +20,11 @@ body {
   display: flow-root;
 }
 
-.recipes {
+.inner-box {
   background-color: rgb(216, 239, 211);
   height: auto;
   width: auto;
-  text-align: center;
-  padding: 15px;
+  padding: 20px;
   border-radius: 10px;
   display: flow-root;
   font-family: "Roboto", sans-serif;
@@ -33,24 +32,13 @@ body {
 
 .recipe-img {
   height: auto;
-  width: 30%;
+  width: 33%;
   border-radius: 10px;
   float: left;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
-.dis {
-  color: black;
-  font-family: "Roboto", sans-serif;
-  text-decoration: none;
-  text-align: left;
-}
-
-.recipe-link {
-  color: black;
-  font-family: "Roboto", sans-serif;
-  font-weight: bold;
-  text-decoration: none;
-  text-shadow: 1px 1px 2px rgb(93, 94, 93);
+.heading {
   text-align: center;
+  text-shadow: 1px 1px 2px rgb(93, 94, 93);
 }
